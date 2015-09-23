@@ -1,10 +1,26 @@
 /* ==========================================================================
    custom styles
    ========================================================================== */
+body {
+  font-family: Lato sans-serif;
+}
+
 #banner {
   padding-bottom: 1%;
 }
 
 #footer {
   text-align: center;
+}
+
+.centered {
+  text-align:center;
+}
+
+div {
+  /*border: 1px solid black;*/
+}
+
+#logo {
+  width:250px
 }
