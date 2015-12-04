@@ -2,7 +2,6 @@
 ## Fighting For Lives
 
 Bootstrap based website for a Finnish charity organization. Fighting for Lives helps street kids in my countries around the world.
-
 ### Author / Contact
 * ![](https://dl.dropboxusercontent.com/u/633848/Images/github_24_black.png) [github](http://www.github.com/argoncode)
 * ![](https://dl.dropboxusercontent.com/u/633848/Images/twitter.png) [twitter](http://twitter.com/argoncode)
