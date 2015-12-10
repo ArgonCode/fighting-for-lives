@@ -45,3 +45,43 @@ body {
 .col-sm-12, .col-sm-6 {
   padding-bottom: 15px;
 }
+
+footer {
+    color: #fff;
+}
+
+
+footer .footer-above {
+    padding-top: 50px;
+    background-color: #0F0F0D;
+}
+
+footer .footer-above a {
+    color: #bbb;
+    /*text-shadow: 0px 0px 2px #222;*/
+}
+
+footer .footer-below {
+    padding: 25px 0;
+    background-color: #0c0c0c;
+}
+
+.navbar-default .navbar-header .navbar-brand {
+    font-size: 30px;
+}
+
+.footerhr {
+    border-color: #666;
+    border-width: 2px;
+}
+
+footer .list-inline {
+    margin-top: -15px;
+}
+
+
+#footer-reg {
+  list-style: square;
+  padding: 0;
+  list-style-position: inside;
+}
