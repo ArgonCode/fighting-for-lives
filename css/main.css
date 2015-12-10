@@ -40,3 +40,8 @@ body {
 .padding-b1 {
   padding-bottom: 1%;
 }
+
+/* Video padding */
+.col-sm-12, .col-sm-6 {
+  padding-bottom: 15px;
+}
