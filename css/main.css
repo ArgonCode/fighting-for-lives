@@ -20,7 +20,6 @@ body > .container {
   text-align: center;
 }
 
-
 #logo {
   width:230px
 }
@@ -53,10 +52,19 @@ body > .container {
   padding-bottom: 15px;
 }
 
-
-
 #footer-reg {
   list-style: square;
   padding: 0;
   list-style-position: inside;
+}
+
+.carousel{
+  background: #33383b;
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+
+#carousel{
+	margin-bottom: 20px;
 }
