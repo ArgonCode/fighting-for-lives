@@ -12,6 +12,10 @@ body > .container {
   padding: 60px 15px 0;
 }
 
+iframe {
+  border: 0 none;
+}
+
 #banner {
   padding-bottom: 1%;
 }
