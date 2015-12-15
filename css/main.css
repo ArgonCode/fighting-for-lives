@@ -57,10 +57,14 @@ iframe {
 }
 
 #footer-reg {
-  list-style: square;
   padding: 0;
   list-style-position: inside;
 }
+
+ul {
+  list-style: square;
+}
+
 
 .carousel{
   background: #33383b;
