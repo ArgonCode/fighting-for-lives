@@ -1,0 +1,11 @@
+# TEAM
+Web developer: Sylwia M. Bialczak - @argoncode - http://www.argoncode.com
+
+# THANKS
+Logo designer - Arnold Kelly, Director for Operation: T.O.U.C.H.
+
+# SITE
+Last update: 2015/12/16
+Standards: HTML, CSS
+Components: Bootstrap
+Software: https://atom.io/, http://www.favicon-generator.org/, https://github.com/, https://git-scm.com/
